@@ -23,9 +23,9 @@ XML support extracted as a third party package directly from the official Django
 
 ## Requirements
 
-* Python 3.5+
+* Python 3.8+
 * Django 2.2+
-* Django REST Framework 3.11+
+* Django REST Framework 3.13+
 
 ## Installation
 
